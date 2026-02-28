@@ -49,4 +49,4 @@ The detailed technical report, including analytical calculations for the Op-Amp 
 
 ---
 - **Author:** Onichi Ionut-Tiberiu
-- **Academic Context:** CEF PR 2025-2026
+- **Tools:** OrCAD, GitHub Desktop.
