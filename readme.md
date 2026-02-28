@@ -48,5 +48,5 @@ The detailed technical report, including analytical calculations for the Op-Amp 
 - [Technical_Report_RO.pdf](Docs/Technical_Report_RO.pdf) (Language: Romanian)
 
 ---
-Author: Onichi Ionut-Tiberiu
-Academic Context: CEF PR 2025-2026
+**Author**: Onichi Ionut-Tiberiu
+**Academic Context**: CEF PR 2025-2026
