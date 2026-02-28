@@ -1,0 +1,38 @@
+# OrCAD Capture and PSpice ignore list
+
+# Temporary and Lock files
+*.lck
+*.DBK
+*.PRP
+*.SAV
+*.icd
+*.log
+*.journal
+*.pjt
+*.tcl
+
+# PSpice Simulation outputs (Binary and temporary files)
+*.dat
+*.out
+*.mkr
+*.ind
+*.sum
+*.swp
+*.tmp
+*.sim
+*.brp
+
+# PCB Editor (Allegro) temporary files
+*.jrl
+*.copy
+*.prm
+*.bak
+*.stj
+*.tag
+*.cdb
+*.mdd
+*#*
+
+# Project backup and outputs
+/Output/
+/Release/

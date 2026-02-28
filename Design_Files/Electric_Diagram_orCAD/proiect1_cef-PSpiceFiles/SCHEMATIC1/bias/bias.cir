@@ -1,0 +1,25 @@
+** Profile: "SCHEMATIC1-bias"  [ C:\Users\tonic\Desktop\P1_2025_432E_Onichi_Ionut_Tiberiu_GSD_N19_OrCAD\P1_2025_432E_Onichi_Ionut_Tiberiu_GSD_N19_OrCAD\Schematics\schema_electrica_orcad\proiect1_cef-pspicefiles\schematic1\bias.sim ] 
+
+** Creating circuit file "bias.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "C:/Users/tonic/Desktop/P1_2025_432E_Onichi_Ionut_Tiberiu_GSD_N19_OrCAD/P1_2025_432E_Onichi_Ionut_Tiberiu_GSD_N19_OrCAD/Schema"
++ "tics/lib_modelepspice_anexa_1/modele_a1_lib/bc846b.lib" 
+.LIB "C:/Users/tonic/Desktop/P1_2025_432E_Onichi_Ionut_Tiberiu_GSD_N19_OrCAD/P1_2025_432E_Onichi_Ionut_Tiberiu_GSD_N19_OrCAD/Schema"
++ "tics/lib_modelepspice_anexa_1/modele_a1_lib/bc856b.lib" 
+.LIB "C:/Users/tonic/Desktop/P1_2025_432E_Onichi_Ionut_Tiberiu_GSD_N19_OrCAD/P1_2025_432E_Onichi_Ionut_Tiberiu_GSD_N19_OrCAD/Schema"
++ "tics/lib_modelepspice_anexa_1/modele_a1_lib/1n4148.lib" 
+* From [PSPICE NETLIST] section of C:\Users\tonic\AppData\Roaming\SPB_Data\cdssetup\OrCAD_PSpice\17.2.0\PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.TRAN  0 600u 0 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+.END

@@ -1,0 +1,988 @@
+\t (00:00:07) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:07)     Journal start - Sat Dec 13 14:27:58 2025
+\t (00:00:07)         Host=TIRIBOMBA User=tonic Pid=8568 CPUs=12
+\t (00:00:07) CmdLine= D:\CADence\tools\bin\allegro.exe
+\t (00:00:07) 
+   (00:00:07) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\d (00:00:07) Design opened: C:/Users/tonic/Desktop/P1_2025_432E_Onichi_Ionut_Tiberiu_GSD_N19_OrCAD/Schematics/schema_electrica_orcad/allegro/PROIECT1_CEF.brd
+\t (00:00:08) Grids are drawn 0.96, 0.96 apart for enhanced viewability.
+\i (00:00:08) trapsize 83
+\i (00:00:08) trapsize 85
+\t (00:00:08) Grids are drawn 0.96, 0.96 apart for enhanced viewability.
+\i (00:00:08) trapsize 85
+\i (00:00:08) trapsize 70
+\i (00:00:08) trapsize 87
+\t (00:00:08) Grids are drawn 15.36, 15.36 apart for enhanced viewability.
+\i (00:00:08) trapsize 1367
+\t (00:00:08) Grids are drawn 0.96, 0.96 apart for enhanced viewability.
+\i (00:00:08) trapsize 70
+\i (00:00:08) generaledit 
+\i (00:00:14) plot setup 
+\i (00:00:15) setwindow form.fpfileplotsetup
+\i (00:00:15) FORM fpfileplotsetup windows  
+\i (00:00:16) FORM fpfileplotsetup general  
+\i (00:00:22) FORM fpfileplotsetup done  
+\i (00:00:22) setwindow pcb
+\i (00:00:22) generaledit 
+\i (00:00:27) viewlog -browse 
+\i (00:00:31) fillin "menu_cancel"
+\i (00:00:33) plot 
+\i (00:01:00) plotwint initialize "Microsoft Print to PDF"
+\i (00:01:00) plotwint orientation 1
+\i (00:01:00) plotwint papername "Letter"
+\i (00:01:00) plotwint copies 1
+\i (00:01:00) plotwint printquality 600
+\i (00:01:00) plotwint color 2
+\i (00:01:00) plotwint execute
+\i (00:12:54) zoom out 1 
+\i (00:12:54) setwindow pcb
+\i (00:12:54) zoom out 117.92 0.17
+\t (00:12:54) Grids are drawn 1.92, 1.92 apart for enhanced viewability.
+\i (00:12:54) trapsize 139
+\i (00:12:54) zoom out 1 
+\i (00:12:54) setwindow pcb
+\i (00:12:54) zoom out 134.80 2.12
+\t (00:12:54) Grids are drawn 3.84, 3.84 apart for enhanced viewability.
+\i (00:12:54) trapsize 248
+\i (00:12:54) zoom in 1 
+\i (00:12:54) setwindow pcb
+\i (00:12:54) zoom in 425.39 -27.60
+\t (00:12:54) Grids are drawn 1.92, 1.92 apart for enhanced viewability.
+\i (00:12:54) trapsize 124
+\i (00:12:55) zoom in 1 
+\i (00:12:55) setwindow pcb
+\i (00:12:55) zoom in 69.44 15.48
+\t (00:12:55) Grids are drawn 0.96, 0.96 apart for enhanced viewability.
+\i (00:12:55) trapsize 62
+\i (00:13:03) trapsize 83
+\i (00:13:05) trapsize 62
+\i (00:13:36) cns show 
+\i (00:13:43) datatips toggle 
+\i (00:13:44) datatips toggle 
+\i (00:13:48) color192 
+\i (00:13:56) QtSignal CVDLayerContainer CVDVisibilityOn clicked
+\i (00:13:58) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:13:58) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:14:00) zoom in 1 
+\i (00:14:00) setwindow pcb
+\i (00:14:00) zoom in -5.70 36.53
+\t (00:14:00) Grids are drawn 0.48, 0.48 apart for enhanced viewability.
+\i (00:14:00) trapsize 31
+\i (00:14:01) zoom in 1 
+\i (00:14:01) setwindow pcb
+\i (00:14:01) zoom in 19.06 26.50
+\t (00:14:01) Grids are drawn 0.24, 0.24 apart for enhanced viewability.
+\i (00:14:01) trapsize 15
+\i (00:14:02) zoom out 1 
+\i (00:14:02) setwindow pcb
+\i (00:14:02) zoom out 19.71 25.67
+\t (00:14:02) Grids are drawn 0.48, 0.48 apart for enhanced viewability.
+\i (00:14:02) trapsize 31
+\i (00:14:02) zoom in 1 
+\i (00:14:02) setwindow pcb
+\i (00:14:02) zoom in 19.27 25.61
+\t (00:14:02) Grids are drawn 0.24, 0.24 apart for enhanced viewability.
+\i (00:14:02) trapsize 15
+\i (00:14:02) zoom out 1 
+\i (00:14:02) setwindow pcb
+\i (00:14:02) zoom out 18.84 25.58
+\t (00:14:02) Grids are drawn 0.48, 0.48 apart for enhanced viewability.
+\i (00:14:02) trapsize 31
+\i (00:14:02) zoom out 1 
+\i (00:14:02) setwindow pcb
+\i (00:14:02) zoom out 18.83 25.57
+\t (00:14:02) Grids are drawn 0.96, 0.96 apart for enhanced viewability.
+\i (00:14:02) trapsize 62
+\i (00:14:03) zoom in 1 
+\i (00:14:03) setwindow pcb
+\i (00:14:03) zoom in 19.94 26.69
+\t (00:14:03) Grids are drawn 0.48, 0.48 apart for enhanced viewability.
+\i (00:14:03) trapsize 31
+\i (00:14:04) roam start
+\i (00:14:04) roam y 64
+\i (00:14:05) roam end
+\i (00:14:05) zoom out 1 
+\i (00:14:05) setwindow pcb
+\i (00:14:05) zoom out -7.79 26.84
+\t (00:14:05) Grids are drawn 0.96, 0.96 apart for enhanced viewability.
+\i (00:14:05) trapsize 62
+\i (00:14:05) zoom out 1 
+\i (00:14:05) setwindow pcb
+\i (00:14:05) zoom out -7.81 27.09
+\t (00:14:05) Grids are drawn 1.92, 1.92 apart for enhanced viewability.
+\i (00:14:05) trapsize 124
+\i (00:14:05) zoom in 1 
+\i (00:14:05) setwindow pcb
+\i (00:14:05) zoom in -91.07 28.82
+\t (00:14:05) Grids are drawn 0.96, 0.96 apart for enhanced viewability.
+\i (00:14:05) trapsize 62
+\i (00:14:07) roam start
+\i (00:14:07) roam x 48
+\i (00:14:07) roam x 112
+\i (00:14:07) roam y 16
+\i (00:14:07) roam x 160
+\i (00:14:07) roam y 32
+\i (00:14:07) roam x 144
+\i (00:14:07) roam y 16
+\i (00:14:07) roam x 96
+\i (00:14:07) roam y 16
+\i (00:14:07) roam x 48
+\i (00:14:07) roam x 32
+\i (00:14:07) roam x -80
+\i (00:14:07) roam y -16
+\i (00:14:07) roam x -112
+\i (00:14:07) roam y -32
+\i (00:14:07) roam x -80
+\i (00:14:07) roam y -16
+\i (00:14:07) roam x -16
+\i (00:14:07) roam y -16
+\i (00:14:07) roam end
+\i (00:14:16) generaledit 
+\i (00:14:17) placementedit 
+\i (00:14:18) generaledit 
+\i (00:14:33) showhide viewsv 
+\t (00:14:33) Grids are drawn 983.04, 983.04 apart for enhanced viewability.
+\t (00:14:33) Grids are drawn 122.88, 122.88 apart for enhanced viewability.
+\i (00:14:33) trapsize 11558
+\t (00:14:33) Grids are drawn 0.96, 0.96 apart for enhanced viewability.
+\t (00:14:34) Grids are drawn 122.88, 122.88 apart for enhanced viewability.
+\t (00:14:34) Grids are drawn 0.96, 0.96 apart for enhanced viewability.
+\i (00:14:34) trapsize 62
+\i (00:14:34) generaledit 
+\i (00:14:40) showhide viewsv 
+\i (00:14:40) generaledit 
+\i (00:14:47) showhide find 
+\i (00:14:47) trapsize 77
+\i (00:14:47) generaledit 
+\i (00:14:52) showhide options 
+\i (00:14:52) generaledit 
+\i (00:15:19) setwindow form.find
+\i (00:15:19) FORM find all_off  
+\i (00:15:35) setwindow pcb
+\i (00:15:35) zoom in 1 
+\i (00:15:35) setwindow pcb
+\i (00:15:35) zoom in 63.17 16.16
+\t (00:15:35) Grids are drawn 0.48, 0.48 apart for enhanced viewability.
+\i (00:15:35) trapsize 39
+\i (00:15:36) roam start
+\i (00:15:36) roam x -48
+\i (00:15:36) roam x -112
+\i (00:15:36) roam x -80
+\i (00:15:36) roam y 16
+\i (00:15:36) roam x -80
+\i (00:15:36) roam y 16
+\i (00:15:37) roam x -64
+\i (00:15:37) roam end
+\i (00:15:37) zoom in 1 
+\i (00:15:37) setwindow pcb
+\i (00:15:37) zoom in 60.60 0.12
+\t (00:15:37) Grids are drawn 0.24, 0.24 apart for enhanced viewability.
+\i (00:15:37) trapsize 19
+\i (00:15:38) roam start
+\i (00:15:38) roam x -32
+\i (00:15:38) roam y 32
+\i (00:15:38) roam x -48
+\i (00:15:38) roam y 32
+\i (00:15:38) roam x -64
+\i (00:15:38) roam y 16
+\i (00:15:38) roam x -16
+\i (00:15:38) roam x -48
+\i (00:15:38) roam x -32
+\i (00:15:38) roam end
+\i (00:15:45) setwindow form.mini
+\i (00:15:45) FORM mini class BOARD GEOMETRY 
+\i (00:15:48) FORM mini subclass SILKSCREEN_TOP 
+\i (00:15:48) setwindow pcb
+\i (00:15:48) zoom out 1 
+\i (00:15:48) setwindow pcb
+\i (00:15:48) zoom out 49.51 2.09
+\t (00:15:48) Grids are drawn 0.48, 0.48 apart for enhanced viewability.
+\i (00:15:48) trapsize 39
+\i (00:15:49) roam start
+\i (00:15:49) roam end
+\i (00:15:51) setwindow form.mini
+\i (00:15:51) FORM mini class PACKAGE GEOMETRY 
+\i (00:16:00) setwindow pcb
+\i (00:16:00) roam start
+\i (00:16:00) roam x 32
+\i (00:16:00) roam y -32
+\i (00:16:00) roam x 16
+\i (00:16:00) roam y -16
+\i (00:16:00) roam end
+\i (00:16:06) dimension edit 
+\i (00:16:07) prepopup 52.17 23.54
+\i (00:16:14) prepopup 52.56 22.84
+\i (00:16:22) prepopup 54.41 22.30
+\i (00:16:24) pop dyn_option_select @:@Parameters 
+\i (00:16:27) setwindow form.draft_parms
+\i (00:16:27) FORM draft_parms cancel  
+\i (00:16:35) setwindow form.mini
+\i (00:16:35) FORM mini class MANUFACTURING 
+\i (00:16:38) setwindow pcb
+\i (00:16:38) pick grid -7.10 40.38
+\t (00:16:38) last pick:  -7.11 40.38
+\w (00:16:38) WARNING(SPMHDI-55): No dimension found.
+\i (00:16:38) prepopup -6.79 41.00
+\i (00:16:39) done 
+\i (00:16:39) generaledit 
+\i (00:16:42) artwork 
+\i (00:16:47) setwindow form.film_control
+\i (00:16:47) FORM film_control general_parameters  
+\i (00:16:47) FORM film_control film_control  
+\i (00:16:54) FORM film_control cancel  
+\i (00:16:54) setwindow pcb
+\i (00:16:54) generaledit 
+\i (00:16:56) pdf out 
+\t (00:16:56) No license found, please contact your Cadence sales support.
+\i (00:17:00) fillin confirm
+\i (00:17:00) generaledit 
+\i (00:17:02) setwindow form.mini
+\i (00:17:02) FORM mini class DRAWING FORMAT 
+\i (00:17:09) FORM mini class MANUFACTURING 
+\i (00:17:10) FORM mini class VIA KEEPOUT 
+\i (00:17:23) setwindow pcb
+\i (00:17:23) artwork 
+\i (00:17:25) setwindow form.film_control
+\i (00:17:25) FORM film_control general_parameters  
+\i (00:17:25) FORM film_control film_control  
+\i (00:17:27) FORM film_control domain_setting  
+\i (00:17:31) setwindow form.film_domain
+\i (00:17:31) FORM film_domain film_domain cell 1,1 
+\i (00:17:32) FORM film_domain cancel  
+\i (00:17:35) setwindow form.film_control
+\i (00:17:35) FORM film_control select_all  
+\i (00:17:42) FORM film_control general_parameters  
+\i (00:17:43) FORM film_control film_control  
+\i (00:17:45) FORM film_control cancel  
+\i (00:17:45) setwindow pcb
+\i (00:17:45) generaledit 
+\i (00:17:49) setwindow form.mini
+\i (00:17:49) FORM mini class ANTI ETCH 
+\i (00:17:51) FORM mini class BOARD GEOMETRY 
+\i (00:17:53) FORM mini class PACKAGE KEEPIN 
+\i (00:17:56) FORM mini class DRC ERROR CLASS 
+\i (00:17:58) FORM mini class COMPONENT VALUE 
+\i (00:18:00) FORM mini class CONSTRAINT REGION 
+\i (00:18:08) setwindow pcb
+\i (00:18:08) color192 
+\i (00:18:08) generaledit 
+\i (00:18:09) QtSignal ColorVisibilityDialog CVDTabs currentChanged Nets
+\i (00:18:10) QtSignal ColorVisibilityDialog CVDTabs currentChanged Display
+\i (00:18:12) QtSignal ColorVisibilityDialog CVDTabs currentChanged Favorites
+\i (00:18:12) QtSignal ColorVisibilityDialog CVDTabs currentChanged "Visibility Pane"
+\i (00:19:03) QtSignal ColorVisibilityDialog CVDTabs currentChanged Favorites
+\i (00:19:03) QtSignal ColorVisibilityDialog CVDTabs currentChanged Display
+\i (00:19:04) QtSignal ColorVisibilityDialog CVDTabs currentChanged Nets
+\i (00:19:05) QtSignal ColorVisibilityDialog CVDTabs currentChanged Layers
+\i (00:19:07) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Surface finishes"
+\i (00:19:07) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Bond wire profiles"
+\i (00:19:08) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Rigid flex"
+\i (00:19:09) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Drawing format"
+\i (00:19:10) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:19:10) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:19:11) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:19:12) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas
+\i (00:19:12) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up
+\i (00:19:20) setwindow form.mini
+\i (00:19:20) FORM mini class VIA KEEPOUT 
+\i (00:19:21) FORM mini class USER PART NUMBER 
+\i (00:19:23) FORM mini class VIA CLASS 
+\i (00:19:23) FORM mini class TOLERANCE 
+\i (00:19:25) FORM mini class SURFACE FINISHES 
+\i (00:19:26) FORM mini class ROUTE KEEPIN 
+\i (00:19:27) FORM mini class RIGID FLEX 
+\i (00:19:28) FORM mini class REF DES 
+\i (00:19:30) FORM mini class PIN 
+\i (00:19:32) FORM mini class MANUFACTURING 
+\i (00:19:36) FORM mini subclass MECANIC 
+\i (00:19:49) setwindow pcb
+\i (00:19:49) showhide vis 
+\i (00:19:49) generaledit 
+\i (00:19:54) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BO"
+\i (00:19:54) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BO"
+\i (00:19:55) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
+\i (00:19:55) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BOTTOM"
+\i (00:19:57) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BO"
+\i (00:19:57) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BO"
+\i (00:19:58) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
+\i (00:19:58) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BOTTOM"
+\i (00:20:01) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: FAB"
+\i (00:20:01) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: FAB"
+\i (00:20:02) pick grid 59.05 10.02
+\t (00:20:02) last pick:  59.04 10.02
+\i (00:20:03) zoom out 1 
+\i (00:20:03) setwindow pcb
+\i (00:20:03) zoom out 59.28 9.78
+\t (00:20:03) Grids are drawn 0.96, 0.96 apart for enhanced viewability.
+\i (00:20:03) trapsize 77
+\i (00:20:04) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SMBOT"
+\i (00:20:04) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SMBOT"
+\i (00:20:05) roam start
+\i (00:20:05) roam x 48
+\i (00:20:05) roam end
+\i (00:20:05) zoom out 1 
+\i (00:20:05) setwindow pcb
+\i (00:20:05) zoom out 61.29 3.45
+\t (00:20:05) Grids are drawn 1.92, 1.92 apart for enhanced viewability.
+\i (00:20:05) trapsize 155
+\i (00:20:06) zoom out 1 
+\i (00:20:06) setwindow pcb
+\i (00:20:06) zoom out 164.22 4.69
+\t (00:20:06) Grids are drawn 3.84, 3.84 apart for enhanced viewability.
+\i (00:20:06) trapsize 248
+\i (00:20:06) zoom in 1 
+\i (00:20:06) setwindow pcb
+\i (00:20:06) zoom in 406.08 -22.65
+\t (00:20:06) Grids are drawn 1.92, 1.92 apart for enhanced viewability.
+\i (00:20:06) trapsize 124
+\i (00:20:06) zoom in 1 
+\i (00:20:06) setwindow pcb
+\i (00:20:06) zoom in 245.23 -22.40
+\t (00:20:06) Grids are drawn 0.96, 0.96 apart for enhanced viewability.
+\i (00:20:06) trapsize 62
+\i (00:20:08) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SMTOP"
+\i (00:20:08) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SMTOP"
+\i (00:20:09) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SPTOP"
+\i (00:20:09) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SPTOP"
+\i (00:20:10) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SSTOP"
+\i (00:20:10) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SSTOP"
+\i (00:20:12) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:20:12) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
+\i (00:20:13) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BO"
+\i (00:20:13) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BO"
+\i (00:20:13) zoom out 1 
+\i (00:20:13) setwindow pcb
+\i (00:20:13) zoom out 255.26 -38.25
+\t (00:20:13) Grids are drawn 1.92, 1.92 apart for enhanced viewability.
+\i (00:20:13) trapsize 124
+\i (00:20:15) roam start
+\i (00:20:15) roam x -48
+\i (00:20:15) roam x -64
+\i (00:20:15) roam x -80
+\i (00:20:15) roam y -16
+\i (00:20:15) roam x -48
+\i (00:20:15) roam x -16
+\i (00:20:15) roam end
+\i (00:20:15) zoom in 1 
+\i (00:20:15) setwindow pcb
+\i (00:20:15) zoom in 21.08 26.87
+\t (00:20:15) Grids are drawn 0.96, 0.96 apart for enhanced viewability.
+\i (00:20:15) trapsize 62
+\i (00:20:16) zoom in 1 
+\i (00:20:16) setwindow pcb
+\i (00:20:16) zoom in 21.08 26.99
+\t (00:20:16) Grids are drawn 0.48, 0.48 apart for enhanced viewability.
+\i (00:20:16) trapsize 31
+\i (00:20:18) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
+\i (00:20:18) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BOTTOM"
+\i (00:20:19) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: FAB"
+\i (00:20:19) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: FAB"
+\i (00:20:20) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SMBOT"
+\i (00:20:20) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SMBOT"
+\i (00:20:22) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SMTOP"
+\i (00:20:22) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SMTOP"
+\i (00:20:24) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SSTOP"
+\i (00:20:24) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SSTOP"
+\i (00:20:27) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:20:27) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
+\i (00:20:38) grid toggle 
+\i (00:20:38) generaledit 
+\i (00:20:45) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
+\i (00:20:45) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BOTTOM"
+\i (00:21:09) zoom out 1 
+\i (00:21:09) setwindow pcb
+\i (00:21:09) zoom out 28.50 24.65
+\i (00:21:09) trapsize 62
+\i (00:21:10) zoom in 1 
+\i (00:21:10) setwindow pcb
+\i (00:21:10) zoom in 63.91 5.46
+\i (00:21:10) trapsize 31
+\i (00:21:11) roam start
+\i (00:21:11) roam x -32
+\i (00:21:11) roam y -16
+\i (00:21:11) roam x -16
+\i (00:21:11) roam y -16
+\i (00:21:11) roam x -32
+\i (00:21:11) roam y -16
+\i (00:21:11) roam x -16
+\i (00:21:11) roam y -16
+\i (00:21:11) roam x -32
+\i (00:21:11) roam x -48
+\i (00:21:11) roam y -16
+\i (00:21:11) roam end
+\i (00:21:12) zoom in 1 
+\i (00:21:12) setwindow pcb
+\i (00:21:12) zoom in 19.31 14.14
+\i (00:21:12) trapsize 15
+\i (00:21:12) zoom out 1 
+\i (00:21:12) setwindow pcb
+\i (00:21:12) zoom out 27.33 13.83
+\i (00:21:12) trapsize 31
+\i (00:21:14) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BO"
+\i (00:21:14) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BO"
+\i (00:21:18) zoom points 
+\t (00:21:18) Pick 1st corner of the new window.
+\i (00:21:19) zoom points 
+\t (00:21:19) Pick 1st corner of the new window.
+\i (00:21:20) zoom fit 
+\e (00:21:20) Maximum command stacking reached.
+\i (00:21:20) zoom in 
+\e (00:21:20) Maximum command stacking reached.
+\i (00:21:21) zoom out 
+\e (00:21:21) Maximum command stacking reached.
+\i (00:21:22) trapsize 46
+\i (00:21:30) trapsize 45
+\i (00:21:31) trapsize 44
+\i (00:21:31) trapsize 43
+\i (00:21:31) trapsize 42
+\i (00:21:31) trapsize 41
+\i (00:21:31) trapsize 40
+\i (00:21:31) trapsize 39
+\i (00:21:31) trapsize 38
+\i (00:21:33) zoom points 
+\e (00:21:33) Maximum command stacking reached.
+\i (00:21:33) zoom out 1 
+\e (00:21:33) Maximum command stacking reached.
+\i (00:21:33) zoom out 1 
+\e (00:21:33) Maximum command stacking reached.
+\i (00:21:33) zoom out 1 
+\e (00:21:33) Maximum command stacking reached.
+\i (00:21:33) zoom out 1 
+\e (00:21:33) Maximum command stacking reached.
+\i (00:21:35) trapsize 27
+\i (00:21:35) zoom in 1 
+\e (00:21:35) Maximum command stacking reached.
+\i (00:21:36) zoom in 1 
+\e (00:21:36) Maximum command stacking reached.
+\i (00:21:36) zoom out 1 
+\e (00:21:36) Maximum command stacking reached.
+\i (00:21:37) prepopup 52.57 23.51
+\i (00:21:37) drag_start 48.07 27.29
+\i (00:21:38) drag_stop
+\i (00:21:38) prepopup 48.13 27.07
+\i (00:21:39) oops 
+\t (00:21:39) Pick 1st corner of the new window.
+\i (00:21:39) prepopup 48.07 27.07
+\i (00:21:40) done 
+\i (00:21:40) zoom out 1 
+\i (00:21:40) setwindow pcb
+\i (00:21:40) zoom out 47.85 27.90
+\i (00:21:40) trapsize 55
+\i (00:21:41) zoom out 1 
+\i (00:21:41) setwindow pcb
+\i (00:21:41) zoom out 47.86 27.89
+\i (00:21:41) trapsize 110
+\i (00:21:42) zoom points 
+\t (00:21:42) Pick 1st corner of the new window.
+\i (00:21:43) zoom out 1 
+\e (00:21:43) Maximum command stacking reached.
+\i (00:21:43) zoom out 1 
+\e (00:21:43) Maximum command stacking reached.
+\i (00:21:44) pick -2.34 28.77
+\t (00:21:44) last pick:  -2.34 28.77
+\t (00:21:44) Pick to complete the window.
+\i (00:21:45) prepopup -73.13 47.18
+\i (00:21:46) oops 
+\t (00:21:46) Pick 1st corner of the new window.
+\i (00:21:46) prepopup -109.52 52.44
+\i (00:21:47) oops 
+\t (00:21:47) Pick 1st corner of the new window.
+\i (00:21:47) prepopup -109.52 50.91
+\i (00:21:48) cancel 
+\i (00:21:48) prepopup -109.52 50.91
+\i (00:21:49) done 
+\i (00:21:49) zoom fit 
+\i (00:21:49) trapsize 23
+\i (00:21:52) trapsize 32
+\i (00:21:55) zoom fit 
+\i (00:21:55) trapsize 30
+\i (00:21:57) trapsize 22
+\i (00:21:59) zoom fit 
+\i (00:21:59) trapsize 23
+\i (00:22:04) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
+\i (00:22:04) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BOTTOM"
+\i (00:22:07) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BO"
+\i (00:22:07) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BO"
+\i (00:22:09) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: FAB"
+\i (00:22:09) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: FAB"
+\i (00:22:13) zoom fit 
+\i (00:22:13) trapsize 23
+\i (00:22:14) zoom out 1 
+\i (00:22:14) setwindow pcb
+\i (00:22:14) zoom out 3.83 35.32
+\i (00:22:14) trapsize 46
+\i (00:22:14) zoom out 1 
+\i (00:22:14) setwindow pcb
+\i (00:22:14) zoom out 3.83 35.32
+\i (00:22:14) trapsize 93
+\i (00:22:14) zoom in 1 
+\i (00:22:14) setwindow pcb
+\i (00:22:14) zoom in 2.89 36.63
+\i (00:22:14) trapsize 46
+\i (00:22:15) zoom out 1 
+\i (00:22:15) setwindow pcb
+\i (00:22:15) zoom out 2.80 36.63
+\i (00:22:15) trapsize 93
+\i (00:22:16) roam start
+\i (00:22:16) roam x -32
+\i (00:22:16) roam x -32
+\i (00:22:16) roam y -16
+\i (00:22:16) roam end
+\i (00:22:17) zoom in 1 
+\i (00:22:17) setwindow pcb
+\i (00:22:17) zoom in -22.03 27.16
+\i (00:22:17) trapsize 46
+\i (00:22:17) roam start
+\i (00:22:18) roam x 16
+\i (00:22:18) roam y 32
+\i (00:22:18) roam x 16
+\i (00:22:18) roam x 16
+\i (00:22:18) roam x 48
+\i (00:22:18) roam y -16
+\i (00:22:18) roam x 32
+\i (00:22:18) roam x 32
+\i (00:22:18) roam end
+\i (00:22:19) zoom out 1 
+\i (00:22:19) setwindow pcb
+\i (00:22:19) zoom out -1.40 21.61
+\i (00:22:19) trapsize 93
+\i (00:22:20) roam start
+\i (00:22:20) roam end
+\i (00:22:22) zoom in 1 
+\i (00:22:22) setwindow pcb
+\i (00:22:22) zoom in -64.17 44.93
+\i (00:22:22) trapsize 46
+\i (00:22:23) roam start
+\i (00:22:23) roam x 48
+\i (00:22:23) roam y 16
+\i (00:22:23) roam x 32
+\i (00:22:23) roam y 32
+\i (00:22:23) roam x 32
+\i (00:22:23) roam y 16
+\i (00:22:24) roam x 32
+\i (00:22:24) roam x 32
+\i (00:22:24) roam x 32
+\i (00:22:24) roam y 16
+\i (00:22:24) roam x 16
+\i (00:22:24) roam x 16
+\i (00:22:24) roam x 16
+\i (00:22:24) roam x 16
+\i (00:22:24) roam x 16
+\i (00:22:24) roam y 16
+\i (00:22:24) roam x 16
+\i (00:22:24) roam x 16
+\i (00:22:25) roam x 16
+\i (00:22:25) roam x 16
+\i (00:22:25) roam y 16
+\i (00:22:25) roam x 16
+\i (00:22:26) roam end
+\i (00:22:27) zoom out 1 
+\i (00:22:27) setwindow pcb
+\i (00:22:27) zoom out -22.31 32.34
+\i (00:22:27) trapsize 93
+\i (00:22:31) zoom in 1 
+\i (00:22:31) setwindow pcb
+\i (00:22:31) zoom in 105.25 19.56
+\i (00:22:31) trapsize 46
+\i (00:22:31) zoom out 1 
+\i (00:22:31) setwindow pcb
+\i (00:22:31) zoom out 95.16 19.00
+\i (00:22:31) trapsize 93
+\i (00:22:33) roam start
+\i (00:22:33) roam x -32
+\i (00:22:33) roam x -32
+\i (00:22:33) roam y -16
+\i (00:22:33) roam x -16
+\i (00:22:33) roam y -16
+\i (00:22:33) roam x -32
+\i (00:22:33) roam y -16
+\i (00:22:33) roam x 16
+\i (00:22:33) roam x 32
+\i (00:22:33) roam y -16
+\i (00:22:33) zoom in 1 
+\i (00:22:33) setwindow pcb
+\i (00:22:33) zoom in 69.81 34.39
+\i (00:22:33) trapsize 46
+\i (00:22:33) roam end
+\i (00:22:34) roam start
+\i (00:22:34) roam y 32
+\i (00:22:34) roam x -16
+\i (00:22:34) roam y 16
+\i (00:22:34) roam x -16
+\i (00:22:34) roam y 32
+\i (00:22:34) roam x -16
+\i (00:22:34) roam y 32
+\i (00:22:34) roam x -16
+\i (00:22:34) roam y 32
+\i (00:22:34) roam x -32
+\i (00:22:34) roam y 32
+\i (00:22:34) roam x -16
+\i (00:22:34) roam y 32
+\i (00:22:34) roam x -16
+\i (00:22:34) roam y 32
+\i (00:22:34) roam y 16
+\i (00:22:34) roam y 16
+\i (00:22:35) roam x 32
+\i (00:22:35) roam y -16
+\i (00:22:35) roam x 80
+\i (00:22:35) roam y -48
+\i (00:22:35) roam x 48
+\i (00:22:35) roam y -48
+\i (00:22:35) roam y -32
+\i (00:22:35) roam x -64
+\i (00:22:35) roam y 16
+\i (00:22:35) roam x -48
+\i (00:22:35) roam y 16
+\i (00:22:35) roam x -16
+\i (00:22:35) roam y -16
+\i (00:22:35) roam x 16
+\i (00:22:35) roam y -16
+\i (00:22:36) roam x 16
+\i (00:22:36) roam y -16
+\i (00:22:36) roam x 16
+\i (00:22:36) roam y -16
+\i (00:22:36) roam x 16
+\i (00:22:37) roam y -16
+\i (00:22:37) roam x 16
+\i (00:22:38) roam y 16
+\i (00:22:38) roam x -16
+\i (00:22:40) roam end
+\i (00:22:41) zoom out 1 
+\i (00:22:41) setwindow pcb
+\i (00:22:41) zoom out 68.78 21.23
+\i (00:22:41) trapsize 93
+\i (00:22:42) drag_start grid -47.50 45.30
+\i (00:22:42) drag_stop -15.28 -25.61
+\i (00:23:18) zoom in 1 
+\i (00:23:18) setwindow pcb
+\i (00:23:18) zoom in -24.73 24.01
+\i (00:23:18) trapsize 46
+\i (00:23:18) zoom out 1 
+\i (00:23:18) setwindow pcb
+\i (00:23:18) zoom out -24.45 22.80
+\i (00:23:18) trapsize 93
+\i (00:23:18) zoom in 1 
+\i (00:23:18) setwindow pcb
+\i (00:23:18) zoom in -24.46 22.81
+\i (00:23:18) trapsize 46
+\i (00:23:19) roam start
+\i (00:23:19) roam x 16
+\i (00:23:19) roam y -16
+\i (00:23:19) roam x 16
+\i (00:23:20) roam y -32
+\i (00:23:20) roam x 16
+\i (00:23:20) roam y 16
+\i (00:23:21) roam y 16
+\i (00:23:21) roam x -16
+\i (00:23:21) roam y 16
+\i (00:23:22) roam x -16
+\i (00:23:22) roam y -16
+\i (00:23:23) roam end
+\i (00:23:23) zoom out 1 
+\i (00:23:23) setwindow pcb
+\i (00:23:23) zoom out -13.99 23.17
+\i (00:23:23) trapsize 93
+\i (00:23:24) roam start
+\i (00:23:24) roam x -32
+\i (00:23:24) roam y -16
+\i (00:23:24) roam x -32
+\i (00:23:24) roam y -32
+\i (00:23:25) roam end
+\i (00:23:25) zoom in 1 
+\i (00:23:25) setwindow pcb
+\i (00:23:25) zoom in -7.59 25.87
+\i (00:23:25) trapsize 46
+\i (00:23:26) roam start
+\i (00:23:26) roam x 16
+\i (00:23:26) roam y 48
+\i (00:23:26) roam x 32
+\i (00:23:26) roam y 16
+\i (00:23:27) roam end
+\i (00:23:27) zoom out 1 
+\i (00:23:27) setwindow pcb
+\i (00:23:27) zoom out 73.87 15.31
+\i (00:23:27) trapsize 93
+\i (00:23:28) roam start
+\i (00:23:28) roam x 64
+\i (00:23:28) roam x 48
+\i (00:23:29) roam y -32
+\i (00:23:29) roam x 32
+\i (00:23:29) roam y -16
+\i (00:23:29) roam x 16
+\i (00:23:29) roam y -16
+\i (00:23:29) roam x 16
+\i (00:23:29) roam y 16
+\i (00:23:29) roam y 16
+\i (00:23:29) roam y 16
+\i (00:23:30) roam x 16
+\i (00:23:30) roam x 16
+\i (00:23:30) roam y 16
+\i (00:23:30) roam x 16
+\i (00:23:30) roam y 16
+\i (00:23:30) roam y 16
+\i (00:23:30) roam y 16
+\i (00:23:31) roam end
+\i (00:23:31) trapsize 129
+\i (00:23:33) zoom fit 
+\i (00:23:33) trapsize 30
+\i (00:23:34) zoom out 1 
+\i (00:23:34) setwindow pcb
+\i (00:23:34) zoom out 17.26 25.14
+\i (00:23:34) trapsize 60
+\i (00:23:35) roam start
+\i (00:23:35) roam x 16
+\i (00:23:35) roam y 32
+\i (00:23:35) roam x 32
+\i (00:23:35) roam y 32
+\i (00:23:35) roam end
+\i (00:23:35) zoom out 1 
+\i (00:23:35) setwindow pcb
+\i (00:23:35) zoom out 81.26 8.63
+\i (00:23:35) trapsize 120
+\i (00:23:36) roam start
+\i (00:23:36) roam x 48
+\i (00:23:36) roam x 32
+\i (00:23:36) roam x 32
+\i (00:23:36) roam x 16
+\i (00:23:36) roam x 32
+\i (00:23:37) roam end
+\i (00:23:37) trapsize 86
+\i (00:23:50) roam start
+\i (00:23:50) roam x 32
+\i (00:23:50) roam x 32
+\i (00:23:50) roam x 16
+\i (00:23:50) roam end
+\i (00:23:51) zoom in 1 
+\i (00:23:51) setwindow pcb
+\i (00:23:51) zoom in -20.38 -11.58
+\i (00:23:51) trapsize 43
+\i (00:23:52) roam start
+\i (00:23:52) roam x 64
+\i (00:23:52) roam x 32
+\i (00:23:52) roam y -16
+\i (00:23:53) roam x 16
+\i (00:23:53) roam x 32
+\i (00:23:53) roam x 16
+\i (00:23:53) roam end
+\i (00:23:53) zoom out 1 
+\i (00:23:53) setwindow pcb
+\i (00:23:53) zoom out -4.02 -13.50
+\i (00:23:53) trapsize 86
+\i (00:23:55) roam start
+\i (00:23:55) roam x 48
+\i (00:23:55) roam x 32
+\i (00:23:55) roam x 16
+\i (00:23:56) roam end
+\i (00:23:57) zoom in 1 
+\i (00:23:57) setwindow pcb
+\i (00:23:57) zoom in 64.92 -3.16
+\i (00:23:57) trapsize 43
+\i (00:23:57) zoom out 1 
+\i (00:23:57) setwindow pcb
+\i (00:23:57) zoom out 64.05 -3.25
+\i (00:23:57) trapsize 86
+\i (00:24:42) zoom in 1 
+\i (00:24:42) setwindow pcb
+\i (00:24:42) zoom in 70.94 8.31
+\i (00:24:42) trapsize 43
+\i (00:24:43) zoom out 1 
+\i (00:24:43) setwindow pcb
+\i (00:24:43) zoom out 62.41 10.12
+\i (00:24:43) trapsize 86
+\i (00:24:43) zoom in 1 
+\i (00:24:43) setwindow pcb
+\i (00:24:43) zoom in -24.61 -20.73
+\i (00:24:43) trapsize 43
+\i (00:24:44) zoom in 1 
+\i (00:24:44) setwindow pcb
+\i (00:24:44) zoom in -12.11 -20.55
+\i (00:24:44) trapsize 22
+\i (00:24:44) zoom in 1 
+\i (00:24:44) setwindow pcb
+\i (00:24:44) zoom in -12.11 -20.55
+\i (00:24:44) trapsize 11
+\i (00:24:45) zoom out 1 
+\i (00:24:45) setwindow pcb
+\i (00:24:45) zoom out -11.72 -20.48
+\i (00:24:45) trapsize 22
+\i (00:24:45) zoom out 1 
+\i (00:24:45) setwindow pcb
+\i (00:24:45) zoom out -11.67 -20.53
+\i (00:24:45) trapsize 43
+\i (00:24:45) zoom out 1 
+\i (00:24:45) setwindow pcb
+\i (00:24:45) zoom out -11.59 -20.61
+\i (00:24:45) trapsize 86
+\i (00:24:50) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: FAB"
+\i (00:24:52) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
+\i (00:24:52) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BOTTOM"
+\i (00:35:04) artwork 
+\i (00:35:04) FORM film_control general_parameters 
+\i (00:35:04) setwindow form.film_control
+\i (00:35:04) FORM film_control general_parameters  
+\i (00:35:04) setwindow pcb
+\i (00:35:04) trapsize 86
+\i (00:35:25) setwindow form.film_control
+\i (00:35:25) FORM film_control cancel  
+\i (00:35:25) setwindow pcb
+\i (00:35:25) generaledit 
+\i (00:40:43) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BO"
+\i (00:40:43) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BO"
+\i (00:40:44) zoom in 1 
+\i (00:40:44) setwindow pcb
+\i (00:40:44) zoom in 13.56 31.61
+\i (00:40:44) trapsize 43
+\i (00:40:45) zoom points 
+\t (00:40:45) Pick 1st corner of the new window.
+\i (00:40:46) Esc 
+\i (00:40:46) prepopup -10.13 48.06
+\i (00:40:47) oops 
+\t (00:40:47) Pick 1st corner of the new window.
+\i (00:40:47) prepopup -10.39 50.99
+\i (00:40:48) cancel 
+\i (00:40:48) prepopup -11.00 51.42
+\i (00:40:49) zoom fit 
+\i (00:40:49) trapsize 23
+\e (00:40:51) Command not found: ~SS
+\i (00:41:06) zoom out 
+\i (00:41:06) setwindow pcb
+\i (00:41:06) zoom out 19.98 19.95
+\i (00:41:06) trapsize 46
+\i (00:41:28) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
+\i (00:41:28) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BOTTOM"
+\i (00:41:29) zoom in 1 
+\i (00:41:29) setwindow pcb
+\i (00:41:29) zoom in 14.98 26.53
+\i (00:41:29) trapsize 23
+\i (00:41:29) zoom out 1 
+\i (00:41:29) setwindow pcb
+\i (00:41:29) zoom out 17.53 26.16
+\i (00:41:29) trapsize 46
+\i (00:41:29) zoom in 1 
+\i (00:41:29) setwindow pcb
+\i (00:41:29) zoom in 17.06 26.53
+\i (00:41:29) trapsize 23
+\i (00:41:30) roam start
+\i (00:41:30) roam y 64
+\i (00:41:31) roam y 16
+\i (00:41:31) roam y 16
+\i (00:41:32) roam y -16
+\i (00:41:33) roam x -16
+\i (00:41:33) roam x 16
+\i (00:41:33) roam y -16
+\i (00:41:34) roam end
+\i (00:44:07) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: FAB"
+\i (00:44:07) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: FAB"
+\i (00:44:07) zoom out 1 
+\i (00:44:07) setwindow pcb
+\i (00:44:07) zoom out 26.15 28.91
+\i (00:44:07) trapsize 46
+\i (00:44:08) zoom out 1 
+\i (00:44:08) setwindow pcb
+\i (00:44:08) zoom out 26.14 29.48
+\i (00:44:08) trapsize 93
+\i (00:44:08) roam start
+\i (00:44:08) roam x 48
+\i (00:44:09) roam x 32
+\i (00:44:09) roam x 48
+\i (00:44:09) roam x 48
+\i (00:44:09) roam end
+\i (00:44:50) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SMBOT"
+\i (00:44:50) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SMBOT"
+\i (00:44:53) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SMBOT"
+\i (00:44:53) zoom in 1 
+\i (00:44:53) setwindow pcb
+\i (00:44:53) zoom in 28.33 34.29
+\i (00:44:53) trapsize 46
+\i (00:44:54) zoom in 1 
+\i (00:44:54) setwindow pcb
+\i (00:44:54) zoom in 15.83 13.28
+\i (00:44:54) trapsize 23
+\i (00:44:55) zoom out 1 
+\i (00:44:55) setwindow pcb
+\i (00:44:55) zoom out 21.53 14.81
+\i (00:44:55) trapsize 46
+\i (00:44:55) roam start
+\i (00:44:55) roam x 16
+\i (00:44:55) roam y -32
+\i (00:44:56) roam y -16
+\i (00:44:56) roam end
+\i (00:44:56) zoom in 1 
+\i (00:44:56) setwindow pcb
+\i (00:44:56) zoom in 42.48 20.95
+\i (00:44:56) trapsize 23
+\i (00:44:57) roam start
+\i (00:44:57) roam x -48
+\i (00:44:57) roam y 48
+\i (00:44:57) roam x -32
+\i (00:44:57) roam x -16
+\i (00:44:57) roam y -16
+\i (00:44:57) roam y -32
+\i (00:44:58) roam x -16
+\i (00:44:58) roam x -16
+\i (00:44:58) roam x -16
+\i (00:44:58) roam y 16
+\i (00:44:58) roam x -16
+\i (00:44:58) roam x -16
+\i (00:44:59) roam y -16
+\i (00:44:59) roam x -16
+\i (00:45:00) roam end
+\i (00:45:56) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SMTOP"
+\i (00:45:56) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SMTOP"
+\i (00:45:57) zoom out 1 
+\i (00:45:57) setwindow pcb
+\i (00:45:57) zoom out 37.25 30.40
+\i (00:45:57) trapsize 46
+\i (00:45:57) zoom in 1 
+\i (00:45:57) setwindow pcb
+\i (00:45:57) zoom in 37.25 30.86
+\i (00:45:57) trapsize 23
+\i (00:46:51) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SPTOP"
+\i (00:46:51) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SPTOP"
+\i (00:47:14) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SSTOP"
+\i (00:47:14) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SSTOP"
+\i (00:47:43) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:47:43) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
+\i (00:48:55) zoom out 1 
+\i (00:48:55) setwindow pcb
+\i (00:48:55) zoom out 22.21 8.73
+\i (00:48:55) trapsize 46
+\i (00:48:56) zoom out 1 
+\i (00:48:56) setwindow pcb
+\i (00:48:56) zoom out 23.41 9.85
+\i (00:48:56) trapsize 93
+\i (00:48:56) zoom in 1 
+\i (00:48:56) setwindow pcb
+\i (00:48:56) zoom in 22.85 4.85
+\i (00:48:56) trapsize 46
+\i (00:48:56) zoom in 1 
+\i (00:48:56) setwindow pcb
+\i (00:48:56) zoom in 22.85 4.94
+\i (00:48:56) trapsize 23
+\i (00:50:59) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged
+\i (00:50:59) QtSignal ColorVisibilityPane CVPViewDropdown activated
+\i (00:51:01) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BO"
+\i (00:51:01) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BO"
+\i (00:51:05) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:51:05) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
+\i (00:51:06) QtSignal CVPLayerGrid CVPConductorsEtch clicked true
+\i (00:51:06) QtSignal CVPLayerGrid CVPPlanesEtch clicked false
+\i (00:51:07) QtSignal CVPLayerGrid CVPMasksEtch clicked false
+\i (00:51:07) QtSignal CVPLayerGrid CVPConductorsVia clicked true
+\i (00:51:08) QtSignal CVPLayerGrid CVPConductorsPin clicked true
+\i (00:51:08) QtSignal CVPLayerGrid CVPConductorsDrc clicked true
+\i (00:51:09) zoom out 1 
+\i (00:51:09) setwindow pcb
+\i (00:51:09) zoom out 52.10 26.19
+\i (00:51:09) trapsize 46
+\i (00:51:12) roam start
+\i (00:51:12) roam x 48
+\i (00:51:12) roam x 80
+\i (00:51:12) roam x 16
+\i (00:51:12) roam end
+\i (00:51:14) save 
+\i (00:51:15) fillin yes 
+\i (00:51:15) generaledit 
+\i (00:51:16) exit 
+\t (00:51:16)     Journal end - Sat Dec 13 15:19:08 2025

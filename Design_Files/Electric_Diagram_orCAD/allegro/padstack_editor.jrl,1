@@ -1,0 +1,40 @@
+\t (00:00:00) padstack_editor 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Fri Dec 12 02:18:09 2025
+\t (00:00:00)         Host=TIRIBOMBA User=tonic Pid=17580 CPUs=12
+\t (00:00:00) CmdLine= padstack_editor -mpssession tonic -file ./#Taaaaaf16272.tmp -pname VIA -data C:/Users/tonic/AppData/Local/Temp/#Taaaaah16272.tmp
+\t (00:00:00) 
+\d (00:00:32) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
+\d (00:00:33) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:36) QtSignal MainWindow Units CurrentIndexChanged Millimeter
+\d (00:00:38) QtFillin Yes
+\w (00:00:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\d (00:00:38) QtSignal MainWindow Units activated Millimeter
+\d (00:00:40) QtSignal GuidedDrillTab holeXSize editingFinished 0.4000
+\d (00:00:40) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:45) QtSignal GuidedDesignLayersTab PadDiameter editingFinished 0.7000
+\d (00:00:45) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777220 0 false 1 
+\d (00:00:46) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 2 "Regular Pad"
+\d (00:00:46) QtSignal GuidedDesignLayersTab LayersTable cellClicked 2 "Regular Pad" 2 2
+\d (00:00:47) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 1 "Regular Pad"
+\d (00:00:47) QtSignal GuidedDesignLayersTab LayersTable cellClicked 1 "Regular Pad" 1 2
+\d (00:00:49) QtSignal GuidedDesignLayersTab PadDiameter editingFinished 0.7000
+\d (00:00:49) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777220 0 false 1 
+\d (00:00:50) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 2 "Regular Pad"
+\d (00:00:50) QtSignal GuidedDesignLayersTab LayersTable cellClicked 2 "Regular Pad" 2 2
+\d (00:00:52) QtSignal GuidedDesignLayersTab PadDiameter editingFinished 0.7000
+\d (00:00:52) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Anti Pad"
+\d (00:00:52) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Anti Pad" 0 4
+\d (00:00:54) QtSignal GuidedDesignLayersTab PadDiameter editingFinished 0.8000
+\d (00:00:54) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 1 "Anti Pad"
+\d (00:00:54) QtSignal GuidedDesignLayersTab LayersTable cellClicked 1 "Anti Pad" 1 4
+\d (00:00:56) QtSignal GuidedDesignLayersTab PadDiameter editingFinished 0.8000
+\d (00:00:56) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 2 "Anti Pad"
+\d (00:00:56) QtSignal GuidedDesignLayersTab LayersTable cellClicked 2 "Anti Pad" 2 4
+\d (00:00:57) QtSignal GuidedDesignLayersTab PadDiameter editingFinished 0.8000
+\d (00:00:58) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged
+\d (00:01:00) QtSignal MainWindow UpdateToDesignExit triggered
+\d (00:01:01) QtSignal pseCheckBrowser Save clicked
+\d (00:01:03) QtFillin 
+\d (00:01:03) QtSignal pseCheckBrowser Close clicked
+\d (00:01:05) QtFillin Yes
+\t (00:01:05)     Journal end - Fri Dec 12 02:19:14 2025

@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : PROIECT1_CEF.brd                              )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Fri Dec 12 22:42:47 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ERROR: in PAD STACK padstack name = VIA
+  ERROR(SPMHDB-254): Pad size does not match the extents of the pad shape.
+
+ERROR: in PAD STACK padstack name = VIA
+  ERROR(SPMHDB-254): Pad size does not match the extents of the pad shape.
+  Layer TOP
+
+ERROR: in PAD STACK padstack name = VIA
+  ERROR(SPMHDB-254): Pad size does not match the extents of the pad shape.
+  Layer BOTTOM
+
+0 warnings, 3 errors detected, 0 errors could be fixed.

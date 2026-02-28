@@ -1,0 +1,33 @@
+Generator semnal dreptunghiular  Revised: Thursday, December 11, 2025
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials       December 11,2025      21:41:59	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	C1	22n
+2	1	C2	33n
+3	1	C3	4.7u
+4	1	C4	4.7p
+5	2	D1,D2	KP-2012
+6	3	J1,J2,J3	CON2
+7	4	P1,R3,R4,R9	100
+8	4	R1,R2,P2,R10	10k
+9	4	Q1,Q2,Q8,Q10	QBC856B
+10	6	Q3,Q4,Q5,Q6,Q7,Q9	QBC846B
+11	1	R5	3.9k
+12	3	R6,R7,R19	51
+13	1	R8	22
+14	1	R11	5.6k
+15	1	R12	15k
+16	1	R13	2.2k
+17	1	R14	1.8k
+18	4	R15,R16,R17,R18	220
+19	1	U1	1N4148
